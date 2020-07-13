@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">todolist</string>
+    <string name="title_activity_todo_list">todo</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="commit">confirm</string>
+    <string name="hint">请写下想要做的事情吧！</string>
+    <string name="hint_complete">添加成功！</string>
+</resources>
